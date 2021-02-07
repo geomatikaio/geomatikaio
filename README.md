@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a founding partner of _Landmap Mapeamento e Geosoluções_, a company that uses geotechnology tools to provide answers to several problems in the industry. I am interested in remote sensing, geographic information systems and putting it all together in free software, using programming in Python and R. I am a Linux enthusiast and I love talking about philosophy and human relationship. Contact me if you want to connect.
+
 <!--
 **geomatikaio/geomatikaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
